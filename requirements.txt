@@ -85,8 +85,7 @@ prompt-toolkit==3.0.43
 protobuf==5.27.2
 pyarrow==17.0.0
 pyautogen==0.2.27
-pydantic==2.5.2
-pydantic_core==2.14.5
+
 pydeck==0.9.1
 pydub==0.25.1
 Pygments==2.18.0
