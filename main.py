@@ -40,4 +40,3 @@ if "chat_history" in st.session_state:
             if i < len(st.session_state["chat_history"]) - 2:
                 st.divider()
 
-#sk-TSGE8885oXfxLXSf11stD60k3HQ2TTM5rPO1Eu61mfddb6IO
